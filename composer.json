@@ -1,0 +1,17 @@
+{
+    "name": "nertlab/geo-address",
+    "description": "Geo address validation and search library",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nifrasismail",
+            "email": "nifrasismail@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.3"
+    }
+}
